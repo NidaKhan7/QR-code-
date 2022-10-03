@@ -1,0 +1,46 @@
+
+
+body {
+
+    font-family: 'Outfit', sans-serif;    
+    background-color: rgb(207, 226, 233);
+    align-items: center;
+    display: flex;
+    box-sizing: border-box;
+    justify-content: center;
+    padding: 60px 50px;
+    min-height: 100vh;
+
+}
+
+img {
+    border-radius: 15px;
+    padding: 0px;
+    margin: 0px 10px;
+}
+
+.card {
+    width: 320px;
+    box-sizing: border-box;
+    background-color: white;
+    border-radius: 15px;
+    text-align: center;
+    box-shadow: 0px 5px 15px rgb(155, 182, 191);
+    padding-left: 0px;
+    padding-top: 20px;
+    padding-bottom: 30px;
+    padding-right: 0px;
+    margin: 0px 1px;
+}
+.card h3 {
+    text-align: center;
+    font-weight: bolder;
+}
+
+.card p {
+    color: rgb(131, 130, 130);
+    font-size: small;
+    padding-bottom: 10px 20px;
+       
+}
+
